@@ -1,2 +1,4 @@
 # Recycland
-Recycland game development
+//game development with Unity
+scripts in C#
+
